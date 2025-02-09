@@ -21,12 +21,13 @@
  </div>
  
 <div align="center"> 
-  <a href="mailto:luizeduardo.bonato@outlook.com">
+  <a href="mailto:luizeduardo.bonato@outlook.com"
     <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
 </a>
   </a>
-  <a href="https://www.linkedin.com/in/luiz-eduardo-bonato/" target="_blank">
+ <a href="https://www.linkedin.com/in/luizbonato/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+</a>
   </a>
   <a href="https://seuportifolio.com" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
