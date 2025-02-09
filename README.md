@@ -35,11 +35,9 @@
  <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,c,mysql,flask&perline=4" />
-
+    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,flask" /><br>
 </div>
-
-<hr/>
 
 <h2 align="center">🚧 Em Breve</h2>
 <div align="center">
