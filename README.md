@@ -41,6 +41,11 @@
 
 <hr/>
 
+<h2 align="center">🚧 Em Breve</h2>
+<div align="center">
+  Estou trabalhando em novos projetos para expandir minhas habilidades em <b>C#</b>, <b>ASP.NET Core</b> e <b>Docker</b>. Fique ligado!
+</div>
+
 <h2 align="center">⚡ Estatísticas ⚡</h2>
 <br>
 <div align=center>
