@@ -64,6 +64,3 @@
 </div>
 
 <br/>
-<pre>
-[x | 0 . 0 \dot { 2 } c | x e]
-</pre>
