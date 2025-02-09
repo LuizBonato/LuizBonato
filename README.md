@@ -39,20 +39,6 @@
     <img src="https://skillicons.dev/icons?i=python,c,mysql,flask" /><br>
 </div>
 
-
-
-
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/luizbonato/luizbonato/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
 <hr/>
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
