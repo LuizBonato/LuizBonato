@@ -4,21 +4,21 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Sou+Luiz+Eduardo+Bonato!;">
 </h1>
 
-<h3 align="center"> Desenvolvedor Backend</h3>
+<h3 align="center">Desenvolvedor Backend</h3>
 
 <br/>
 
 <div align="center">
  
- 🔭 focado em aprender **Desenvolvimento Backend**
+ 🔭 Focado em aprender **Desenvolvimento Backend**
 
  🌱 Estou aprendendo **C#, ASP.NET Core, Docker, AWS**
 
-💬 Tem alguma dúvida ou sugestão sobre Python, C#, ASP.NET, SQL? " [Deixe sua mensagem aqui](https://github.com/luizbonato/luizbonato/issues)**
+ 💬 Tem alguma dúvida ou sugestão sobre Python, C#, ASP.NET, SQL? [Deixe sua mensagem aqui](https://github.com/luizbonato/luizbonato/issues)
 
-⚡ Curiosidade: **Adoro aprender novas tecnologias e construir soluções escaláveis**
+ ⚡ Curiosidade: **Adoro aprender novas tecnologias e construir soluções escaláveis**
 
- </div>
+</div>
  
 <div align="center"> 
   <a href="mailto:luizeduardo.bonato@outlook.com">
@@ -32,7 +32,7 @@
   </a>
 </div>
 
- <hr/>
+<hr/>
  
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
