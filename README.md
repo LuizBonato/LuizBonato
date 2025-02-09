@@ -10,11 +10,11 @@
 
 <div align="center">
  
- 🔭 Atualmente estou trabalhando em **Desenvolvimento Backend**
+ 🔭 focado em aprender **Desenvolvimento Backend**
 
  🌱 Estou aprendendo **C#, ASP.NET Core, Docker, AWS**
 
-💬 Pergunte-me sobre **Python, C#, ASP.NET, SQL... ou qualquer coisa [aqui](https://github.com/luizbonato/luizbonato/issues)**
+💬 Tem alguma dúvida ou sugestão sobre Python, C#, ASP.NET, SQL? " [Deixe sua mensagem aqui](https://github.com/luizbonato/luizbonato/issues)**
 
 ⚡ Curiosidade: **Adoro aprender novas tecnologias e construir soluções escaláveis**
 
