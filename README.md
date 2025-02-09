@@ -57,7 +57,9 @@
 <br/>
 
 <div align="center">
-<a href='https://ko-fi.com/luizbonato' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+  <a href="https://www.linkedin.com/in/luizbonato/" target="_blank">
+    <img src="https://img.shields.io/badge/🤝_Conecte--se_comigo_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
 </div>
 
 <br/>
