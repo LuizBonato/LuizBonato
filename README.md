@@ -35,8 +35,8 @@
  <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=python,c,mysql,flask&perline=4" />
+
 </div>
 
 <hr/>
