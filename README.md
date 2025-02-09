@@ -34,8 +34,6 @@
 
  <hr/>
  
-<h2 align="center">⚒️ Linguagens, Frameworks e Ferramentas ⚒️</h2>
-<br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vscode,github,git" />
     <img src="https://skillicons.dev/icons?i=python,c,mysql,flask" /><br>
