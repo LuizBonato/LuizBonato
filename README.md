@@ -1,3 +1,5 @@
+<!-- Desenvolvedor Backend | C#, ASP.NET Core | Docker | AWS | Python -->
+
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luizbonato.luizbonato" />
 
 <h1 align="center">
@@ -5,6 +7,11 @@
 </h1>
 
 <h3 align="center">Desenvolvedor Backend</h3>
+
+<div align="center">
+🎓 Desenvolvedor Backend apaixonado por resolver problemas com soluções escaláveis.<br>
+Atualmente focado em <b>C#</b>, <b>ASP.NET Core</b>, <b>Docker</b> e <b>AWS</b>.
+</div>
 
 <br/>
 
@@ -35,13 +42,13 @@
 <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,c,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,c,mysql,flask,csharp,dotnet,docker,aws" /><br>
 </div>
 
 <h2 align="center">🚧 Em Breve</h2>
 <div align="center">
-  Estou trabalhando em novos projetos para expandir minhas habilidades em <b>C#</b>, <b>ASP.NET Core</b> e <b>Docker</b>. Fique ligado!
+ 🚀 Desenvolvendo APIs com <b>ASP.NET Core</b>, utilizando <b>Docker</b> para conteinerização e explorando deploys em <b>AWS</b>. <br>
+ Novos projetos em breve nos repositórios!
 </div>
 
 <h2 align="center">⚡ Estatísticas ⚡</h2>
@@ -49,11 +56,18 @@
 <div align=center>
   <img width=390 src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10" alt="streak stats"/>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=luizbonato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br><br>
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbonato&layout=compact&theme=react&border_radius=10"/>
 </div>
 
 <br/><br/>
 
 <hr/>
+
+<div align="center">
+ 💡 <b>Interessado em colaborar ou trocar ideias?</b><br>
+ Confira meus repositórios ou me mande uma mensagem no LinkedIn!
+</div>
 
 <br/>
 
@@ -64,3 +78,4 @@
 </div>
 
 <br/>
+
