@@ -23,7 +23,6 @@ Atualmente focado em <b>C#</b>, <b>ASP.NET Core</b>, <b>Docker</b> e <b>AWS</b>.
 
  💬 Tem alguma dúvida ou sugestão sobre Python, C#, ASP.NET, SQL? [Deixe sua mensagem aqui](https://github.com/luizbonato/luizbonato/issues)
 
- ⚡ Curiosidade: **Adoro aprender novas tecnologias e construir soluções escaláveis**
 
 </div>
  
