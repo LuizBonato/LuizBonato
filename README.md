@@ -41,7 +41,7 @@ Atualmente focado em <b>C#</b>, <b>ASP.NET Core</b>, <b>Docker</b> e <b>AWS</b>.
 <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,c,mysql,flask,dotnet," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,c,flask,dotnet," /><br>
 </div>
 
 <h2 align="center">🚧 Em Breve</h2>
