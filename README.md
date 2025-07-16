@@ -9,7 +9,7 @@
 <h3 align="center">Desenvolvedor Backend</h3>
 
 <div align="center">
-🔧 Backend com base sólida e foco em qualidade técnica.<br>
+⚙️ Backend com base sólida e foco em qualidade técnica.<br>
 <b>C#</b> • SOLID • APIs RESTful • SQL • Integrações corporativas
 </div>
 
@@ -41,7 +41,7 @@
 <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,csharp,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,mysql,github,git,python,cs,dotnet" /><br>
 </div>
 
 <div align="center">
