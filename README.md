@@ -1,80 +1,63 @@
-<!-- Desenvolvedor Backend | C#, ASP.NET Core | Docker | AWS | Python -->
+<!-- Backend Developer | C# • .NET • APIs | Automação (N8n, GLPI) -->
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=luizbonato.luizbonato" />
+<h1 align="center">Olá 👋 eu sou o Luiz Eduardo Bonato</h1>
+<h3 align="center">Backend Developer em formação • Automação & Infra</h3>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá+!+👋;+Sou+Luiz+Eduardo+Bonato!;">
-</h1>
+<p align="center">
+  🎯 Transformo processos manuais em rotinas automatizadas.<br>
+  🛠️ Construo APIs e integrações robustas com C# e ASP.NET Core.<br>
+  🚀 Sempre aprendendo: Docker, AWS e boas práticas de DevOps.
+</p>
 
-<h3 align="center">Desenvolvedor Backend</h3>
+---
 
-<div align="center">
-🎓 Desenvolvedor Backend apaixonado por resolver problemas com soluções escaláveis.<br>
-Atualmente focado em <b>C#</b>, <b>ASP.NET Core</b>, <b>Docker</b> e <b>AWS</b>.
-</div>
+## ⚡️ Quem sou eu
+Sou um profissional de TI apaixonado por **back-end** e automação.  
+Hoje trabalho criando fluxos no **N8n**, integrando sistemas como **SAP** e **GLPI**, e dando suporte à infraestrutura.
 
-<br/>
+Meu objetivo é entregar **soluções escaláveis e bem organizadas** em C#/.NET, sempre com foco na simplicidade de manutenção.
 
-<div align="center">
- 
- 🔭 Focado em aprender **Desenvolvimento Backend**
+---
 
- 🌱 Estou aprendendo **C#, ASP.NET Core, Docker, AWS**
+## 🔨 Projetos em andamento
+- **Fluxos N8n** que geram PDFs, disparam e-mails e sincronizam dados com o SAP  
+- **APIs REST** para orquestrar automações administrativas no GLPI  
+- **Dockerização** de serviços internos e estudo de **deploy** na AWS
 
- 💬 Tem alguma dúvida ou sugestão sobre Python, C#, ASP.NET, SQL? [Deixe sua mensagem aqui](https://github.com/luizbonato/luizbonato/issues)
+---
 
+## 🧰 Tecnologias & Ferramentas
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,csharp,python,docker,aws,github,git,vscode" /><br>
+  <b>N8n • GLPI • SQL • Excel Automation • Selenium / Puppeteer</b>
+</p>
 
-</div>
- 
-<div align="center"> 
+---
+
+## ✉️ Como falar comigo
+<p align="center">
   <a href="mailto:luizeduardo.bonato@outlook.com">
-    <img src="https://img.shields.io/badge/Outlook-333333?style=for-the-badge&logo=microsoft-outlook&logoColor=white" />
+    <img src="https://img.shields.io/badge/E-mail-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/luizbonato/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://luizbonato.github.io/portfolio/Index.html" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/Portfólio-FF5722?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-</div>
+</p>
 
-<hr/>
- 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,c,flask,dotnet," /><br>
-</div>
+---
 
-<h2 align="center">🚧 Em Breve</h2>
-<div align="center">
- 🚀 Desenvolvendo APIs com <b>ASP.NET Core</b>, utilizando <b>Docker</b> para conteinerização e explorando deploys em <b>AWS</b>. <br>
- Novos projetos em breve nos repositórios!
-</div>
-
-<h2 align="center">⚡ Estatísticas ⚡</h2>
-<br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=luizbonato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+## 📊 GitHub Stats
+<p align="center">
+  <img width=390 src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=luizbonato&show_icons=true&theme=react&border_radius=10" />
   <br><br>
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbonato&layout=compact&theme=react&border_radius=10"/>
-</div>
+</p>
 
-<br/><br/>
+---
 
-<hr/>
-
-<div align="center">
- 💡 <b>Interessado em colaborar ou trocar ideias?</b><br>
- Confira meus repositórios ou me mande uma mensagem no LinkedIn!
-</div>
-
-<br/>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/luizbonato/" target="_blank">
-    <img src="https://img.shields.io/badge/🤝_Conecte--se_comigo_no_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
-
-<br/>
-
+## 🤝 Vamos conversar?
+Se você também curte back-end, automação ou quer trocar ideias sobre carreira tech, chama lá no LinkedIn!
