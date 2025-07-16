@@ -9,20 +9,20 @@
 <h3 align="center">Desenvolvedor Backend</h3>
 
 <div align="center">
-🎓 Desenvolvedor Backend apaixonado por resolver problemas com soluções escaláveis.<br>
-Atualmente focado em <b>C#</b>, <b>ASP.NET Core</b>, <b>Docker</b> e <b>AWS</b>.
+🔧 Backend com base sólida e foco em qualidade técnica.<br>
+<b>C#</b> • SOLID • APIs RESTful • SQL • Integrações corporativas
 </div>
 
 <br/>
 
 <div align="center">
  
- 🔭 Focado em aprender **Desenvolvimento Backend**
+ 🔭 Atualmente focado em evoluir no **Desenvolvimento Backend**
 
- 🌱 Estou aprendendo **C#, ASP.NET Core, Docker, AWS**
+🌱 Estudando e praticando **C#**, **ASP.NET Core**, **APIs REST** e automações com **N8n**
 
- 💬 Tem alguma dúvida ou sugestão sobre Python, C#, ASP.NET, SQL? [Deixe sua mensagem aqui](https://github.com/luizbonato/luizbonato/issues)
-
+💬 Tem alguma dúvida ou sugestão sobre meus projetos em **.NET**, **N8n** ou automação com **GLPI**?  
+👉 [Abra uma issue aqui](https://github.com/luizbonato/luizbonato/issues) e vamos trocar ideia!
 
 </div>
  
@@ -41,22 +41,21 @@ Atualmente focado em <b>C#</b>, <b>ASP.NET Core</b>, <b>Docker</b> e <b>AWS</b>.
 <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,c,flask,dotnet," /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,github,git,python,csharp,dotnet" /><br>
 </div>
 
-<h2 align="center">🚧 Em Breve</h2>
 <div align="center">
- 🚀 Desenvolvendo APIs com <b>ASP.NET Core</b>, utilizando <b>Docker</b> para conteinerização e explorando deploys em <b>AWS</b>. <br>
- Novos projetos em breve nos repositórios!
+ 🚀 Projetos back-end com <b>.NET</b> e <b>N8n</b> focados em integrações e automação de processos.
 </div>
 
-<h2 align="center">⚡ Estatísticas ⚡</h2>
+
+<h2 align="center">⚡ Estatísticas do GitHub ⚡</h2>
 <br>
-<div align=center>
-  <img width=390 src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=luizbonato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<div align="center">
+  <img width="390" src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10" alt="GitHub Streak Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=luizbonato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub Stats" />
   <br><br>
-  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbonato&layout=compact&theme=react&border_radius=10"/>
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbonato&layout=compact&theme=react&border_radius=10" alt="Top Languages" />
 </div>
 
 <br/><br/>
