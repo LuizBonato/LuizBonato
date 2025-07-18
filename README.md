@@ -10,7 +10,7 @@
 
 <div align="center">
 ⚙️ Backend com base sólida e foco em qualidade técnica.<br>
-<b>C#</b> • SOLID • APIs RESTful • SQL • Integrações corporativas
+<b>JavaScript</b> • <b>Node.js</b> • <b>APIs RESTful</b> • <b>SQL</b> • <b>Integrações corporativas</b>
 </div>
 
 <br/>
@@ -19,10 +19,10 @@
  
  🔭 Atualmente focado em evoluir no **Desenvolvimento Backend**
 
-🌱 Estudando e praticando **C#**, **ASP.NET Core**, **APIs REST** e automações com **N8n**
+🌱 Estudando e praticando **JavaScript**, **Node.js**, **APIs RESTful** e automações com **n8n**
 
-💬 Tem alguma dúvida ou sugestão sobre meus projetos em **.NET**, **N8n** ou automação com **GLPI**?  
-👉 [Abra uma issue aqui](https://github.com/luizbonato/luizbonato/issues) e vamos trocar ideia!
+💬 Quer saber mais sobre meus projetos em n8n, automação com GLPI ou integrações com sistemas corporativos? Me chama! 👇
+ [Abra uma issue aqui](https://github.com/luizbonato/luizbonato/issues) e vamos trocar ideia!
 
 </div>
  
@@ -41,11 +41,11 @@
 <hr/>
  
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,mysql,github,git,python,cs,dotnet" /><br>
+    <img src="https://skillicons.dev/icons?i=vscode,mysql,github,git,nodejs,js," /><br>
 </div>
 
 <div align="center">
- 🚀 Projetos back-end com <b>.NET</b> e <b>N8n</b> focados em integrações e automação de processos.
+ 🚀 Projetos back-end com <b>JavaScript</b>, <b>Node.js</b> e <b>N8n</b> focados em integrações e automação de processos.
 </div>
 
 
