@@ -9,17 +9,18 @@
 <h3 align="center">Desenvolvedor Backend</h3>
 
 <div align="center">
-⚙️ Backend com base sólida e foco em qualidade técnica.<br>
-<b>JavaScript</b> • <b>Node.js</b> • <b>APIs RESTful</b> • <b>SQL</b> • <b>Integrações corporativas</b>
+⚙️ Desenvolvimento Backend com foco em qualidade, organização e entregas eficientes.<br>
+<b>C#</b> • <b>.NET</b> • <b>APIs RESTful</b> • <b>SQL Server</b> • <b>Entity Framework</b> • <b>Integrações com n8n</b>
 </div>
 
 <br/>
 
 <div align="center">
- 
- 🔭 Atualmente focado em evoluir no **Desenvolvimento Backend**
+🎯 Atuo com foco em construir soluções robustas, aplicando <b>boas práticas</b> de desenvolvimento e <b>arquitetura limpa</b>.<br>
+🚀 Em constante evolução como <b>Dev Backend</b>, com projetos práticos em <b>ASP.NET Core</b>, <b>RabbitMQ</b> e automações corporativas.<br>
+🔍 Busco oportunidades para aplicar meus conhecimentos, aprender em equipe e agregar valor com código de qualidade.
+</div>
 
-🌱 Estudando e praticando **JavaScript**, **Node.js**, **APIs RESTful** e automações com **n8n**
 
 💬 Quer saber mais sobre meus projetos em n8n, automação com GLPI ou integrações com sistemas corporativos? Me chama! 👇
  [Abra uma issue aqui](https://github.com/luizbonato/luizbonato/issues) e vamos trocar ideia!
