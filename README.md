@@ -10,22 +10,14 @@
 
 <div align="center">
 ⚙️ Desenvolvimento Backend com foco em qualidade, organização e entregas eficientes.<br>
-<b>C#</b> • <b>.NET</b> • <b>APIs RESTful</b> • <b>SQL Server</b> • <b>Entity Framework</b> • <b>Integrações com n8n</b>
+<b>C#</b> • <b>.NET</b> • <b>APIs RESTful</b> • <b>SQL</b> • <b>Entity Framework</b> • <b>Integrações com n8n</b>
 </div>
 
 <br/>
 
 <div align="center">
 🎯 Atuo com foco em construir soluções robustas, aplicando <b>boas práticas</b> de desenvolvimento e <b>arquitetura limpa</b>.<br>
-🚀 Em constante evolução como <b>Dev Backend</b>, com projetos práticos em <b>ASP.NET Core</b>, <b>RabbitMQ</b> e automações corporativas.<br>
-🔍 Busco oportunidades para aplicar meus conhecimentos, aprender em equipe e agregar valor com código de qualidade.
-</div>
-
-
-💬 Quer saber mais sobre meus projetos em n8n, automação com GLPI ou integrações com sistemas corporativos? Me chama! 👇
- [Abra uma issue aqui](https://github.com/luizbonato/luizbonato/issues) e vamos trocar ideia!
-
-</div>
+ Em constante evolução como <b>Dev Backend</b>, com projetos práticos em <b>ASP.NET Core</b>, <b>RabbitMQ</b> e automações corporativas.<br>
  
 <div align="center"> 
   <a href="mailto:luizeduardo.bonato@outlook.com">
@@ -40,14 +32,18 @@
 </div>
 
 <hr/>
- 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,mysql,github,git,nodejs,js," /><br>
+ 🧠 Tecnologias que utilizo:
 </div>
 
 <div align="center">
- 🚀 Projetos back-end com <b>JavaScript</b>, <b>Node.js</b> e <b>N8n</b> focados em integrações e automação de processos.
+    <img src="https://skillicons.dev/icons?i=vscode,mysql,grafana,aws,git,dotnet,cs,nodejs" /><br>
 </div>
+
+<div align="center">
+⚙️ Desenvolvimento back-end em <b>C#</b> e <b>.NET</b> com foco em integrações corporativas, automações inteligentes com <b>n8n</b> e APIs RESTful bem estruturadas.
+</div>
+
 
 
 <h2 align="center">⚡ Estatísticas do GitHub ⚡</h2>
