@@ -9,8 +9,8 @@
 <h3 align="center">Desenvolvedor Backend</h3>
 
 <div align="center">
-⚙️ Desenvolvimento Backend com foco em qualidade, organização e entregas eficientes.<br>
-<b>C#</b> • <b>.NET</b> • <b>APIs RESTful</b> • <b>SQL</b> • <b>Entity Framework</b> • <b>Integrações com n8n</b>
+Experiência prática integrando SAP Business One (Service Layer), WMS e GLPI via n8n e APIs REST.
+Trabalho com fluxos automatizados, logs estruturados, DTOs padronizados e tratamento de erros, garantindo integrações estáveis e rastreáveis.
 </div>
 
 <br/>
