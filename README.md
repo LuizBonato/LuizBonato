@@ -38,8 +38,10 @@ Atuo com automações corporativas, logs estruturados, padronização de DTOs, r
 
 <h3 align="center">🧠 Tecnologias que utilizo</h3>
 
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=vscode,git,github,nodejs,cs,dotnet,mysql" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,nodejs,cs,dotnet,mysql&perline=7" />
+</p>
+
     <br><br>
 
 🔗 <b>Integrações & Automação:</b> APIs REST, SAP B1 (Service Layer), n8n, DTOs, JSON, logs, retentativas, debugging via SL.<br>
