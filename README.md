@@ -62,7 +62,7 @@
 
 ## 🏗️ What I Build
 
-**ERP automation pipelines** — n8n workflows (self-hosted, Docker) handling Purchase Orders, Delivery Notes, Credit Notes, Stock Transfers, Landed Costs and Material Revaluation against SAP B1 Service Layer. Built with error handling, retries, idempotency and structured logging with execution IDs.
+**ERP automation pipelines** — n8n workflows handling Purchase Orders, Delivery Notes, Credit Notes, Stock Transfers, Landed Costs and Material Revaluation against SAP B1 Service Layer. Built with error handling, retries, idempotency and structured logging with execution IDs.
 
 **Bidirectional CRM integrations** — Salesforce ↔ SAP B1 sync with custom objects, status updates and payload normalization via DTOs.
 
