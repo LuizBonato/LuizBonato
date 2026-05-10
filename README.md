@@ -28,7 +28,7 @@
 ## 🔧 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,docker,java,mysql,grafana,git,github,postman,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,docker,java,sqlite,grafana,git,github,postman,vscode&perline=10" />
 </div>
 
 <br/>
@@ -49,7 +49,6 @@
 **Database**
 
 ![SAP HANA](https://img.shields.io/badge/SAP_HANA-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Observability**
 
@@ -97,7 +96,7 @@ Observability: Grafana (Infinity) ← n8n webhooks → JSONL logs
 
 ## 🎯 Where I'm Headed
 
-Currently expanding into **Java back-end development** (Santander/DIO bootcamp) to move from integration-focused work toward full back-end engineering — building APIs and services, not just connecting them.
+Currently expanding into Java back-end development (Santander/DIO bootcamp) to deepen fundamentals and build the services I integrate with.
 
 Areas of focus: REST API design · microservices · automated testing · clean architecture.
 
