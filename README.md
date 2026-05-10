@@ -28,7 +28,7 @@
 ## 🔧 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,js,docker,java,sqlite,grafana,git,github,postman,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=nodejs,js,docker,java,grafana,git,github,postman,vscode&perline=10" />
 </div>
 
 <br/>
