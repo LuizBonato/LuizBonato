@@ -39,7 +39,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 **ERP & Enterprise Integrations**
 
@@ -54,6 +53,11 @@
 **Observability**
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+
+**AI workflow engineering**
+
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
 
 **In progress**
 
@@ -71,12 +75,13 @@
 
 **External platform connectors** — LogComex (customs import), BankPlus (bank slips), PTAX API (FX rates).
 
-CTEs, PARTITION BY, UNION ALL and complex joins across SAP transactional tables for business reporting and integration logic.
+**HANA SQL** — CTEs, `PARTITION BY`, `UNION ALL` and complex joins across SAP transactional tables  for business reporting and integration logic.
 
 **Structured observability** — Grafana dashboards consuming n8n webhook data via Infinity plugin, JSONL logs, sanitized payloads and email alerts.
 
----
+**AI workflow engineering** — design and maintain specialized agents in Claude and ChatGPT to support my day-to-day integration work: custom skills for debugging SAP Service Layer responses, structured prompts for payload analysis, and context-aware assistants for recurring technical decisions. I use AI as a force multiplier — not just to answer questions, but to encode reusable problem-solving patterns that accelerate delivery.
 
+---
 
 ## 🎯 Where I'm Headed
 
@@ -86,7 +91,8 @@ Areas of focus: REST API design · microservices · automated testing · clean a
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
+
 <div align="center">
   <img width="500" src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D" />
   <br/><br/>
