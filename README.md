@@ -70,27 +70,9 @@
 
 **External platform connectors** — LogComex (customs import), BankPlus (bank slips), PTAX API (FX rates).
 
-**HANA SQL** — CTEs, `PARTITION BY`, `UNION ALL` and complex joins across SAP transactional tables (`ORDR`, `OINV`, `OPDN`, `ORIN`, `OSHP`, `ONCM`, `OPOR` and others) for business reporting and integration logic.
+CTEs, PARTITION BY, UNION ALL and complex joins across SAP transactional tables for business reporting and integration logic.
 
 **Structured observability** — Grafana dashboards consuming n8n webhook data via Infinity plugin, JSONL logs, sanitized payloads and email alerts.
-
----
-
-## 📡 Integration Surface
-
-```
-SAP Business One (Service Layer)
-  └── PurchaseOrders · PurchaseDeliveryNotes · CreditNotes
-  └── StockTransfers · LandedCosts · MaterialRevaluation
-
-Salesforce        ←→   bidirectional sync
-WYMS (WMS)        →    shipment & product data
-LogComex          →    customs & import tracking
-BankPlus          →    bank slip generation
-PTAX API          →    FX rate consumption
-
-Observability: Grafana (Infinity) ← n8n webhooks → JSONL logs
-```
 
 ---
 
