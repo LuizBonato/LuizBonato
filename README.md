@@ -84,11 +84,9 @@ Areas of focus: REST API design · microservices · automated testing · clean a
 
 ---
 
-## 📊 GitHub Stats
-
+📊 GitHub Stats
 <div align="center">
-  <img width="390" src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=luizbonato&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" />
+  <img width="500" src="https://streak-stats.demolab.com/?user=luizbonato&theme=react&border_radius=10&date_format=j%20M%5B%20Y%5D" />
   <br/><br/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizbonato&layout=compact&theme=react&border_radius=10" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=luizbonato&theme=react-dark&area=true&hide_border=true&radius=10" />
 </div>
