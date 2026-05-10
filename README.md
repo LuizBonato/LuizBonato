@@ -27,6 +27,12 @@
 
 ## 🔧 Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,js,docker,java,mysql,grafana,git,github,postman,vscode&perline=10" />
+</div>
+
+<br/>
+
 **Orchestration & Automation**
 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
@@ -49,16 +55,9 @@
 
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-**Tooling**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-
 **In progress**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
 
 ---
 
@@ -98,7 +97,7 @@ Observability: Grafana (Infinity) ← n8n webhooks → JSONL logs
 
 ## 🎯 Where I'm Headed
 
-Currently expanding into **Java back-end development** (Santander/DIO bootcamp) and **C# / .NET** to move from integration-focused work toward full back-end engineering — building APIs and services, not just connecting them.
+Currently expanding into **Java back-end development** (Santander/DIO bootcamp) to move from integration-focused work toward full back-end engineering — building APIs and services, not just connecting them.
 
 Areas of focus: REST API design · microservices · automated testing · clean architecture.
 
